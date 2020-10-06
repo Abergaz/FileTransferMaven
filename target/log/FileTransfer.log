@@ -1,0 +1,10 @@
+06.10.2020 15:27:18.631 [main] INFO  com.abergaz.Start - Start FileTransfer
+06.10.2020 15:27:18.647 [main] INFO  com.abergaz.Start - Init settings start
+06.10.2020 15:27:18.647 [main] INFO  com.abergaz.Start - Необходимо указать файл настроек в параметрах запуска. 
+Например: java -jar FileTransfer.jar settings.properties
+06.10.2020 15:27:18.647 [main] INFO  com.abergaz.Start - End FileTransfer
+06.10.2020 15:30:42.420 [main] INFO  com.abergaz.Start - Start FileTransfer
+06.10.2020 15:30:42.421 [main] INFO  com.abergaz.Start - Init settings start
+06.10.2020 15:30:42.422 [main] INFO  com.abergaz.Start - Необходимо указать файл настроек в параметрах запуска. 
+Например: java -jar FileTransfer.jar settings.properties
+06.10.2020 15:30:42.423 [main] INFO  com.abergaz.Start - End FileTransfer
